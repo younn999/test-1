@@ -1,3 +1,4 @@
+![사과](./pngtree-red-apple-sticker-art-work-illustration-png-image_14701779.png)
 # README 파일이란?
 
 이곳은 *저장소에 대한 설명*을 작성합니다.
